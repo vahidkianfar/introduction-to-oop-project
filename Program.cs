@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine();
+            Console.WriteLine("\n Welcome to the Bird Program!\n");
             Console.WriteLine("****Pigeon Class**** \n ->");
             var pigeon = new Pigeon("Angel","Black");
             Console.WriteLine("{0} is a {1} Pigeon",pigeon.GetName(),pigeon.GetColor());
@@ -38,6 +38,4 @@
             bird.spin();
             Console.WriteLine();*/
         }
-
-        
     }

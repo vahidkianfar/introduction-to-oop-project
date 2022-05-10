@@ -7,10 +7,16 @@ public class Penguin: Bird
         SetName(name);
         SetColor(color);
     }
+    
     //if I want to use the base class Speak()/Fly() method -->
     //***public void Speak()/Fly() => base.Speak()/base.Fly();***
     //Or i can simply not implemented in the Penguin class (But I guess we want Polymorphism)
-    public override void Speak() => Console.WriteLine("I'm {0} a penguin, I can't speak!", GetName());
-    public override void Fly() => Console.WriteLine("I'm {0} a penguin, I can't fly!", GetName());
-
+    public override void Speak()
+    {
+        Console.WriteLine("I'm {0} a penguin, I can't speak!", GetName());
+    }
+    public override void Fly()
+    {
+        Console.WriteLine("I'm {0} a penguin, I can't fly!", GetName());
+    }
 }
