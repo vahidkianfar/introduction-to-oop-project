@@ -5,19 +5,6 @@
         static void Main()
         {
             Console.WriteLine();
-            
-            /* Because the Bird class is Abstract we cannot create an instance of it.
-             
-            Console.WriteLine("****Bird Class**** \n ->");
-            var bird = new Bird("Coco","Blue");
-            Console.WriteLine("{0} is {1}",bird.getName(),bird.getColor());
-            bird.fly();
-            bird.speak();
-            bird.jump();
-            bird.doTheCaterpillar();
-            bird.spin();
-            Console.WriteLine();*/
-            
             Console.WriteLine("****Pigeon Class**** \n ->");
             var pigeon = new Pigeon("Angel","Black");
             Console.WriteLine("{0} is a {1} Pigeon",pigeon.GetName(),pigeon.GetColor());
@@ -37,6 +24,19 @@
             penguin.Spin();
             penguin.DoTheCaterpillar();
             penguin.Jump();
+            
+            /* Because the Bird class is Abstract we cannot create an instance of it.
+                * We can only create an instance of the subclass.
+             
+            Console.WriteLine("****Bird Class**** \n ->");
+            var bird = new Bird("Coco","Blue");
+            Console.WriteLine("{0} is {1}",bird.getName(),bird.getColor());
+            bird.fly();
+            bird.speak();
+            bird.jump();
+            bird.doTheCaterpillar();
+            bird.spin();
+            Console.WriteLine();*/
         }
 
         

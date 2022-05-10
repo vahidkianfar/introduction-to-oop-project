@@ -7,8 +7,15 @@ public class Pigeon : Bird
         SetName(name);
         SetColor(color);
     }
-    //public void speak() => base.speak(); <---- if I want to use the base class speak method
+    //if I want to use the base class speak method --> ***public void speak() => base.speak();***
     //Or i can simply not implemented in the Penguin class (But I guess we want Polymorphism)
-    public override void Speak() => Console.WriteLine("I am {0} a pigeon, I can't speak", GetName());
-    public void EatPizza() => Console.WriteLine("I am {0} a pigeon and I can eat Pizza, woow" ,GetName());
+    public override void Speak()
+    {
+        Console.WriteLine("I am {0} a pigeon, I can't speak", GetName());
+    }
+
+    public void EatPizza()
+    {
+        Console.WriteLine("I am {0} a pigeon and I can eat Pizza, woow" ,GetName());
+    }
 }
