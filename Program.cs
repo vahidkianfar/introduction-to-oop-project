@@ -30,12 +30,12 @@
              
             Console.WriteLine("****Bird Class**** \n ->");
             var bird = new Bird("Coco","Blue");
-            Console.WriteLine("{0} is {1}",bird.getName(),bird.getColor());
-            bird.fly();
-            bird.speak();
-            bird.jump();
-            bird.doTheCaterpillar();
-            bird.spin();
+            Console.WriteLine("{0} is {1}",bird.GetName(),bird.GetColor());
+            bird.Fly();
+            bird.Speak();
+            bird.Jump();
+            bird.DoTheCaterpillar();
+            bird.Spin();
             Console.WriteLine();*/
         }
     }
