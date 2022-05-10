@@ -14,8 +14,8 @@ public abstract class Bird:IDance
     
     //I can use "public" instead of "protected" for SetName and SetColor
     //if I want to change Name and Color of the instances.
-    protected void SetName(string name)=>Name = name; 
-    protected void SetColor(string color)=>Color = color;
+    protected void SetName(string name) => Name = name; 
+    protected void SetColor(string color) => Color = color;
     public string GetName() => Name;
     public string GetColor() => Color;
     public virtual void Fly()
