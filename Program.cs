@@ -2,7 +2,7 @@
 
     class Program
     {
-        static void Main()
+        private static void Main()
         {
             Console.WriteLine("\n Welcome to the Bird Program!\n");
             Console.WriteLine("****Parrot Class**** \n ->");
