@@ -5,37 +5,30 @@
         static void Main()
         {
             Console.WriteLine("\n Welcome to the Bird Program!\n");
-            Console.WriteLine("****Pigeon Class**** \n ->");
-            var pigeon = new Pigeon("Angel","Black");
-            Console.WriteLine("{0} is a {1} Pigeon",pigeon.GetName(),pigeon.GetColor());
-            pigeon.Speak();
-            pigeon.EatPizza();
-            pigeon.Spin();
-            pigeon.DoTheCaterpillar();
-            pigeon.Jump();
-
-            Console.WriteLine();
+            Console.WriteLine("****Parrot Class**** \n ->");
+            var myParrot = new Parrot("Budgie","Green");
+            myParrot.Speak();
             
-            Console.WriteLine("****Penguin Class**** \n ->");
-            var penguin = new Penguin("Kiwi","White");
-            Console.WriteLine("{0} is a {1} Penguin",penguin.GetName(),penguin.GetColor());
-            penguin.Speak();
-            penguin.Fly();
-            penguin.Spin();
-            penguin.DoTheCaterpillar();
-            penguin.Jump();
+            Console.WriteLine("\n ****Pigeon Class**** \n ->");
+            var myPigeon = new Pigeon("Angel","Black");
+            Console.WriteLine("{0} is a {1} Pigeon",myPigeon.GetName(),myPigeon.GetColor());
+            myPigeon.Speak();
+            myPigeon.EatPizza();
+            myPigeon.Spin();
+            myPigeon.DoTheCaterpillar();
+            myPigeon.Jump();
+            myPigeon.Sleep();
             
-            /* Because the Bird class is Abstract we cannot create an instance of it.
-                * We can only create an instance of the subclass.
-             
-            Console.WriteLine("****Bird Class**** \n ->");
-            var bird = new Bird("Coco","Blue");
-            Console.WriteLine("{0} is {1}",bird.GetName(),bird.GetColor());
-            bird.Fly();
-            bird.Speak();
-            bird.Jump();
-            bird.DoTheCaterpillar();
-            bird.Spin();
-            Console.WriteLine();*/
+            Console.WriteLine("\n ****Penguin Class**** \n ->");
+            var myPenguin = new Penguin("Kiwi","White");
+            Console.WriteLine("{0} is a {1} Penguin",myPenguin.GetName(),myPenguin.GetColor());
+            myPenguin.Speak();
+            myPenguin.Fly();
+            myPenguin.Spin();
+            myPenguin.DoTheCaterpillar();
+            myPenguin.Jump();
+            
+            
+            
         }
     }
