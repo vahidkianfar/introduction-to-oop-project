@@ -1,0 +1,15 @@
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.csproj.AssemblyReference.cache
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.AssemblyInfoInputs.cache
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.AssemblyInfo.cs
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.csproj.CoreCompileInputs.cache
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\bin\Debug\net6.0\Introduction_to_OOP_Birds.exe
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\bin\Debug\net6.0\Introduction_to_OOP_Birds.deps.json
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\bin\Debug\net6.0\Introduction_to_OOP_Birds.runtimeconfig.json
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\bin\Debug\net6.0\Introduction_to_OOP_Birds.dll
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\bin\Debug\net6.0\Introduction_to_OOP_Birds.pdb
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.dll
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\refint\Introduction_to_OOP_Birds.dll
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.pdb
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\Introduction_to_OOP_Birds.genruntimeconfig.cache
+C:\Users\Vahid\RiderProjects\Introduction_to_OOP_Birds\Introduction_to_OOP_Birds\obj\Debug\net6.0\ref\Introduction_to_OOP_Birds.dll
