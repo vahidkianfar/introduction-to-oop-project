@@ -13,6 +13,6 @@ public class Pigeon : Bird
     }
     public void EatPizza()
     {
-        Console.WriteLine("I am {0} a pigeon and I can eat Pizza, woow" ,GetName());
+        Console.WriteLine("I am {0} a pigeon and I can eat Pizza, Woow" ,GetName());
     }
 }
