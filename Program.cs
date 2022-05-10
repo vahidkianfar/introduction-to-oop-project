@@ -6,11 +6,11 @@
         {
             Console.WriteLine("\n Welcome to the Bird Program!\n");
             Console.WriteLine("****Parrot Class**** \n ->");
-            var myParrot = new Parrot("Budgie","Green");
+            Parrot myParrot = new ("Budgie","Green");
             myParrot.Speak();
             
             Console.WriteLine("\n ****Pigeon Class**** \n ->");
-            var myPigeon = new Pigeon("Angel","Black");
+            Pigeon myPigeon = new ("Angel","Black");
             Console.WriteLine("{0} is a {1} Pigeon",myPigeon.GetName(),myPigeon.GetColor());
             myPigeon.Speak();
             myPigeon.EatPizza();
@@ -20,7 +20,7 @@
             myPigeon.Sleep();
             
             Console.WriteLine("\n ****Penguin Class**** \n ->");
-            var myPenguin = new Penguin("Kiwi","White");
+            Penguin myPenguin = new ("Kiwi","White");
             Console.WriteLine("{0} is a {1} Penguin",myPenguin.GetName(),myPenguin.GetColor());
             myPenguin.Speak();
             myPenguin.Fly();
