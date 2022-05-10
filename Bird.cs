@@ -4,14 +4,13 @@
 // Uncomment Bird's instance and Methods at the end of the "Main".
 public abstract class Bird:IDance
 {
-    protected Bird(string name, string color)
+    public Bird(string name, string color)
     {
         Name = name;
         Color = color;
     }
     private string Name { get; set; }
     private string Color { get; set; }
-    
     //I can use "public" instead of "protected" for SetName and SetColor
     //if I want to change Name and Color of the instances.
     protected void SetName(string name)=>Name = name; 
