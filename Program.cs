@@ -1,4 +1,4 @@
-﻿namespace Introduction_to_OOP_Birds.Models;
+﻿using Introduction_to_OOP_Birds.Models;
 
     class Program
     {
