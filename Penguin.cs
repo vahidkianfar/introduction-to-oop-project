@@ -13,7 +13,7 @@ public class Penguin: Bird
     //Or i can simply not implemented in the Penguin class (But I guess we want Polymorphism)
     public override void Speak()
     {
-        Console.WriteLine("I'm {0} a penguin, I can't speak!", GetName());
+        Console.WriteLine("I'm {0} a penguin, I am Speaking! hmmm weird!", GetName());
     }
     public override void Fly()
     {
