@@ -1,3 +1,3 @@
-# introduction-to-oop-project
+# Introduction to OOP
 
-Introduction to OOP using Abstract, Interface, Encapsulation and Polymorphism
+using Abstract, Interface, Encapsulation and Polymorphism.
