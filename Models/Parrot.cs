@@ -1,4 +1,4 @@
-﻿namespace Introduction_to_OOP_Birds;
+﻿namespace Introduction_to_OOP_Birds.Models;
 
 public class Parrot:Bird
 {

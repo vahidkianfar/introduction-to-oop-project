@@ -1,4 +1,4 @@
-﻿namespace Introduction_to_OOP_Birds;
+﻿namespace Introduction_to_OOP_Birds.Models;
 
     class Program
     {
@@ -27,8 +27,5 @@
             myPenguin.Spin();
             myPenguin.DoTheCaterpillar();
             myPenguin.Jump();
-            
-            
-            
         }
     }
