@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vahid\\.nuget\\packages\\": {}
+    "/home/vahid/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vahid\\RiderProjects\\Introduction_to_OOP_Birds\\Introduction_to_OOP_Birds\\Introduction_to_OOP_Birds.csproj",
+      "projectUniqueName": "/home/vahid/RiderProjects/Introduction_to_OOP_Birds/Introduction_to_OOP_Birds/Introduction_to_OOP_Birds.csproj",
       "projectName": "Introduction_to_OOP_Birds",
-      "projectPath": "C:\\Users\\Vahid\\RiderProjects\\Introduction_to_OOP_Birds\\Introduction_to_OOP_Birds\\Introduction_to_OOP_Birds.csproj",
-      "packagesPath": "C:\\Users\\Vahid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vahid\\RiderProjects\\Introduction_to_OOP_Birds\\Introduction_to_OOP_Birds\\obj\\",
+      "projectPath": "/home/vahid/RiderProjects/Introduction_to_OOP_Birds/Introduction_to_OOP_Birds/Introduction_to_OOP_Birds.csproj",
+      "packagesPath": "/home/vahid/.nuget/packages/",
+      "outputPath": "/home/vahid/RiderProjects/Introduction_to_OOP_Birds/Introduction_to_OOP_Birds/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/vahid/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
